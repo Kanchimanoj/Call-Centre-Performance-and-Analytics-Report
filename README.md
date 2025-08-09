@@ -1,7 +1,7 @@
 # Call-Centre-Performance-and-Analytics-Report
 This project analyzes call centre performance data to uncover trends, monitor key metrics, and provide actionable insights into customer service efficiency.
 The goal is to help management identify bottlenecks, optimize agent productivity, and improve customer satisfaction.
-
+[Call centre Performance Report](https://github.com/Kanchimanoj/Call-Centre-Performance-and-Analytics-Report/blob/221fbf2d46eebfc7a80bad923dfefaa49a5a7ab3/Call%20Centre.png)
 📊 Key Insights Visualized:
 
 Total Calls Handled – 1,000 calls tracked over the year.
